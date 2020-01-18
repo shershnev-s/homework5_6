@@ -1,0 +1,15 @@
+### Idea ###
+*.iml
+*.ipr
+*.iws
+.idea/
+
+### Other files ###
+out/
+*.log
+*.jar
+logs/
+*.txt
+
+### Maven ###
+target/
